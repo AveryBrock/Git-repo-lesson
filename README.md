@@ -1,5 +1,5 @@
 # Git-repo-lesson
-Class lesson for 443 in using GitHub
+## Class lesson for 443 in using GitHub
 A new line, added to the file
 
 And another new line
@@ -10,3 +10,5 @@ list:
 - one
 - two
 - three
+1. One
+2. Two
